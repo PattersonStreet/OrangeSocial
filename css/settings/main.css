@@ -1,0 +1,21 @@
+.middle3 {
+ height: 100%;
+ width: 700px;
+ background: white;
+ color: #000;
+ margin: 0 auto;
+}
+
+#new_password, #new_password2 {
+    border: 1px solid #EEE;
+    background: white;
+    width: 20%;
+    height: 20px;
+}
+
+.middle input[type='text'] {
+    border: 1px solid #EEE;
+    background: white;
+    width: 20%;
+    height: 20px; 
+}

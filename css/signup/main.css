@@ -1,0 +1,33 @@
+.middle {
+	height: auto;
+	margin: 0 auto;
+	max-width: 300px;
+	width: 100%;
+	background: #4aaee7;
+	margin-top: 70px;
+	color:white;
+	border-radius: 8px;
+
+}
+
+.middle h2 {
+	font-family: 'wf_SegoeUILight','Segoe UI Light', 'Segoe UI', 'Segoe WP Light', 'Tahoma', Arial, Verdana, sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+}
+
+hr {
+	width: 100%;
+	background: #EEE;
+	border: 1px solid #EEE;
+}
+
+input[type='text'] {
+	margin: 10px;
+	padding: 20px;
+	width: 94%;
+	height: 20px;
+	border:1px solid #4aaee7;
+	margin-top: 20px;
+}
